@@ -9,6 +9,7 @@ node_modules
 
 /build
 /public/build
+/server
 .env
 
 /cypress/screenshots
@@ -16,4 +17,4 @@ node_modules
 /prisma/data.db
 /prisma/data.db-journal
 
-/app/styles/tailwind.css
+/app/styles
